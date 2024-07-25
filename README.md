@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Sawant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate java developer from India</h3>
 
 
 - 🔭 I’m currently working in **Cognizant**
 
-- 🤔 I’m looking for help with **finding startups with small teams working on Java Spring Boot in Bangalore.**
+- 🤔 I’m looking for **small teams working on Java Spring Boot in Bangalore.**
 
 - 🌱 I’m currently learning **microservices in Spring Boot, docker, kafka, DSA and REST API testing.**
 
