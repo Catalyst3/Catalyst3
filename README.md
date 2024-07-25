@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **projects that utilize Java, Spring Boot, and related technologies.**
 
-- Current Project [RMGU Sindhudurg: Website for selling organic fruits and products from the Kokan region.](RMGU Sindhudurg: Website for selling organic fruits and products from the Kokan region.)
+- Currently working on Project RMGU Sindhudurg: Website for selling organic fruits and products from the Kokan region. <a herf="https://github.com/Catalyst3/MyEcomApp.git">Link</a>
 
 - 💬 Ask me about **Java, Spring Boot, Microservices, Selenium, and REST API testing.**
 
