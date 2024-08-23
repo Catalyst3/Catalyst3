@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for **Java Spring boot Developer role in Bangalore.**
 
-- 🌱 I’m currently learning **microservices in Spring Boot, docker, kafka, DSA and REST API testing.**
+- 🌱 I’m currently learning **docker, kafka, DSA**
 
 - 👯 I’m looking to collaborate on **projects that utilize Java, Spring Boot, and related technologies.**
 
