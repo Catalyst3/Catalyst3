@@ -12,7 +12,7 @@
 
 - Currently working on Personal Project RMGU Sindhudurg: Website for selling organic fruits and products from the Kokan region. <a herf="https://github.com/Catalyst3/MyEcomApp.git">Link</a>
 
-- 💬 Ask me about **Java, Spring Boot, Microservices, Selenium, and REST API testing.**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Selenium, DSA and REST API.**
 
 - 📫 How to reach me **sawantaditya350@gmail.com**
 
