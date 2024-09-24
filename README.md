@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working in **Cognizant**
 
-- 🤔 I’m looking for **Java Spring boot Developer role in Bangalore.**
-
 - 🌱 I’m currently learning **docker, LLD, DSA**
 
 - 👯 I’m looking to collaborate on **projects that utilize Java, Spring Boot, and related technologies.**
