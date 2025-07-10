@@ -2,11 +2,9 @@
 <h3 align="center">A passionate java developer from India</h3>
 
 
-- 🔭 I’m currently working in **Cognizant**
+- 🔭 I’m currently working in **Liveramp**
 
-- 🌱 I’m currently learning **docker, LLD, DSA**
-
-- 👯 I’m looking to collaborate on **projects that utilize Java, Spring Boot, and related technologies.**
+- 🌱 I’m currently learning **LLD, DSA**
 
 - Currently working on Personal Project RMGU Sindhudurg: Website for selling organic fruits and products from the Kokan region. <a herf="https://github.com/Catalyst3/MyEcomApp.git">Link</a>
 
